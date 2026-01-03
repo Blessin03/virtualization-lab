@@ -16,7 +16,7 @@ The focus is not just installing VMs, but building a **reproducible, well-docume
 
 ## OS Targets
 - Windows 11 (guest)
-- Ubuntu 24.04 LTS (guest)
+- Ubuntu 24.04 (guest)
 
 ## Host Environment
 - Host OS: Windows
@@ -35,4 +35,4 @@ The focus is not just installing VMs, but building a **reproducible, well-docume
 - evidence/ → Screenshots and validation outputs
 
 ## Status
-- repository setup and Project Framing
+- Windows part complete i have to do ubuntu now 
