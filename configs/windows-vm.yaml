@@ -1,0 +1,10 @@
+vm_name: vm-win11-base
+os: Windows 11
+cpu: 4
+memory_gb: 8
+disk_gb: 80
+firmware: UEFI
+graphics:
+  controller: VBoxSVGA
+network:
+  adapter1: NAT
