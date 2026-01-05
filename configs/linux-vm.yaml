@@ -1,0 +1,8 @@
+vm_name: vm-ubuntu-base
+os: Ubuntu Server 24.04 LTS
+ram_mb: 23748
+cpus: 8
+disk_gb: 40
+network:
+  adapter1: NAT
+ssh: enabled

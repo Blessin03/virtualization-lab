@@ -35,4 +35,4 @@ The focus is not just installing VMs, but building a **reproducible, well-docume
 - evidence/ → Screenshots and validation outputs
 
 ## Status
-- Windows part complete i have to do ubuntu now 
+- part 2 complete
